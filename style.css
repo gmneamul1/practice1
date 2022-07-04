@@ -1,0 +1,33 @@
+div{
+padding: 25px;
+width: 40%;
+}
+p{
+    color: darkgray;
+}
+#visit{
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+    margin-left: 8px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+#openclassroom{
+    font-weight: 1500;
+    color: rgb(71, 11, 127);
+}
+
+.flex1{
+    border-left: 1px solid gray;
+    padding-left: 20px;
+    width: 50%;
+    
+}
+.flex0{
+    padding-left: 40px;
+   display: flex;margin-top: 100px;
+}
+.web-d{
+    width: 50%;
+}
